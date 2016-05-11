@@ -1,2 +1,2 @@
 # Sunshine
-# This is a developing branch
+# This is master branch.
